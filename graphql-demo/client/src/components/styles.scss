@@ -1,0 +1,26 @@
+.bookList {
+  max-width: 374px;
+  border: 1px solid lightsteelblue;
+  margin: 64px;
+  padding: 24px;
+
+  .ant-tag-blue {
+    padding: 6px;
+    margin: 5px;
+    cursor: pointer;
+  }
+}
+
+.bookDetails {
+  max-width: 374px;
+  margin: 64px;
+  padding: 45px;
+  outline: dashed 1px lightsteelblue;
+}
+
+.addBook {
+  max-width: 374px;
+  border: 1px solid lightsteelblue;
+  margin: 64px;
+  padding: 24px;
+}
